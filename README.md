@@ -1,8 +1,7 @@
 
 # Space Cream
 
-Este desafio foi de extrema importância para meu aprendizado, nele usei HTML,CSS .
-Solidificando conhecimentos em :
+This challenge was extremely important for my learning, in it I used HTML, CSS . Solidifying knowledge in:
 - display grid
 - @media
 - @keyframes
@@ -11,16 +10,16 @@ Solidificando conhecimentos em :
 
 
 
-## Funcionalidades
+## functionalities
 
 
 
-- Modo tela cheia 
-- Rensponsividade
+- full screen mode
+- responsiveness
 
 
 
-## 🛠 Habilidades
+## 🛠 Skills
  HTML, CSS...
 
 
